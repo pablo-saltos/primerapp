@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimeraAppAndroid</string>
+    <string name="textview">Prueba de idioma</string>
+    <string name="introduccion">Escribe la temperatura a convertir: </string>
+    <string name="temperatura">Temperatura</string>
+    <string name="boton1">Convertir de Celsius a fahrenheit</string>
+    <string name="boton2">Convertir de fahrenheit a Celsius</string>
+    <string name="resultado">0 grados</string>
+</resources>

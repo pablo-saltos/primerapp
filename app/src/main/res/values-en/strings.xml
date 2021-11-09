@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAppAndroid</string>
+    <string name="textview">Language test</string>
+    <string name="introduccion">Write the temperature to convert: </string>
+    <string name="temperatura">Temperature</string>
+    <string name="boton1">Convert from Celsius to Fahrenheit</string>
+    <string name="boton2">Convert from Fahrenheit to Celsius</string>
+    <string name="resultado">0 degrees</string>
+
+</resources>
